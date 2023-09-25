@@ -1,4 +1,4 @@
-# Instacart-Phyton
+# Instacart-Python
 The Instacart grocery basket analysis project utilizes Phyton to conduct an initial data exploration and analysis to derive insights and propose customer segmentation strategies.
 
 ## Objective
